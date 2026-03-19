@@ -79,3 +79,8 @@ Customer segmentation using K-Means clustering provides valuable insights into c
 ---
 
 ## 📁 Project Structure
+DevelopersHub_Task2_Customer_Segmentation/
+│
+├── Customer_Segmentation.ipynb
+├── Mall_Customers.csv
+└── README.md
